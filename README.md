@@ -4,7 +4,7 @@
 
 ### 👋 Hey, I'm Ghazy
 
-I am a frontend developer, I have knowledge and skills in developing attractive and responsive user interfaces for websites and applications
+I am a full-stack developer with knowledge and skills in comprehensive software development, from frontend to backend. I have experience in developing attractive and responsive user interfaces for websites and applications.
 
 ### **Tools**
 
